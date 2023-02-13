@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project was made while following FCC blockchain course and demostrates use cases for hardhat with a fund me smart contract.
 
 Try running some of the following tasks:
 
